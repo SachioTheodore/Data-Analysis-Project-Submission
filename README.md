@@ -54,7 +54,7 @@ Follow these steps to run the Bike Sharing Dataset analysis project:
 1. **Clone this Repository:**
    Open your terminal or command prompt and run the following command to clone the repository:
    ```bash
-   git clone https://github.com/SachioTheodore/capital-bike-share-analysis.git
+   git clone https://github.com/SachioTheodore/Data-Analysis-Project-Submission.git
    ```
 
 2. **Install All Required Libraries:**
